@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "title": "Conjuring, les dossiers Warren",
+        "synopsis": "L'histoire horrible, mais vraie, d'Ed et Warren enquêteurs paranormaux réputés dans le monde entier, venus aider une famille terrorisée par une présence paranormale " ,
+        "release": 2013
+    },
+
+    {
+        "id": 2,
+        "title": "Annabelle : La Maison du mal",
+        "synopsis":" Placée sous une cloche de verre sacrée et bénie par un prêtre, Annabelle ne devrait plus mettre la sécurité de tous en péril. Cependant, elle réveille les esprits démoniaques dans la pièce où elle se trouve lors d'une nuit d'horreur infernale",
+        "release": 2018
+    },
+
+    {
+        "id": 3,
+        "title": "la nonne la malédiction de sainte-lucie",
+        "synopsis":"En France, en 1956, un prêtre est assassiné dans un internat. Après la mort du prêtre, il se passe des choses qui ne peuvent plus être expliquées rationnellement Sœur Irène est une nouvelle fois confrontée à un pouvoir démoniaque. Elle se rend vite compte que c'est le démon Valak qui est de retour et qui se prépare à ses méfaits meurtriers.",
+        "release": 2023
+    }
+]
